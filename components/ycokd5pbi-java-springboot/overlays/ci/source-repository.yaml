@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ycokd5pbi-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ycokd5pbi-java-springboot
